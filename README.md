@@ -1,2 +1,2 @@
-# V-clavKohoutIT4
+# VaclavKohoutIT4
 Maturitní projekt
